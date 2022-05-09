@@ -1,15 +1,3 @@
-/* eslint-disable no-empty-pattern */
-/* eslint-disable no-param-reassign */
-/* eslint-disable @typescript-eslint/no-use-before-define */
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable react/jsx-no-bind */
-/* eslint-disable react/jsx-no-useless-fragment */
-/* eslint-disable react/no-array-index-key */
-/* eslint-disable spaced-comment */
-/* eslint-disable @typescript-eslint/naming-convention */
-/* eslint-disable import-helpers/order-imports */
-/* eslint-disable @typescript-eslint/no-unused-vars */
-/* eslint-disable prettier/prettier */
 import { useContext, useEffect, useState } from "react";
 import { TodoListContext } from "../../hooks/TodoListContext";
 import { TodoItem } from "../TodoItem";
