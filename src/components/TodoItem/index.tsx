@@ -1,17 +1,3 @@
-/* eslint-disable no-empty-pattern */
-/* eslint-disable spaced-comment */
-/* eslint-disable react/prop-types */
-/* eslint-disable @typescript-eslint/no-use-before-define */
-/* eslint-disable react/no-unused-prop-types */
-/* eslint-disable jsx-a11y/click-events-have-key-events */
-/* eslint-disable jsx-a11y/no-noninteractive-element-interactions */
-/* eslint-disable @typescript-eslint/naming-convention */
-/* eslint-disable @typescript-eslint/no-explicit-any */
-/* eslint-disable react/void-dom-elements-no-children */
-/* eslint-disable react/self-closing-comp */
-/* eslint-disable import-helpers/order-imports */
-/* eslint-disable prettier/prettier */
-/* eslint-disable @typescript-eslint/no-unused-vars */
 import { useState,useContext } from "react";
 import deleteImg from "../../assets/delete.svg";
 import editImg from "../../assets/edit.svg";
